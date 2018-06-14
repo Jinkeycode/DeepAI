@@ -1,0 +1,16 @@
+# for Mac OS X System Files
+.DS_Store
+Thumbs.db
+
+# for IDEA
+*/build/*
+.idea/*
+*.iml
+/out/*
+
+__pycache__
+*/__pycache__/*
+pyenv
+*.pyc
+test.py
+*.log
